@@ -1,0 +1,8 @@
+*first make sure the m file and your excel sheet are in the same folder (you can keep it anywhere if you know you manipulate the path).
+*now change the name in the filename variable so that it matches your excel file name.
+*make sure your offset is in the same format as mine.
+*I've used Trapezoidal rule for midship and sectional areas.
+*local lengths are by default global as you can see in my offset ,you have to change it after measuring on the plan.
+*local breadths however are taken at station 4,5,6 as they are the maximum.
+                                                                                        -N.S.Vinay Krishna Rayudu,
+                                                                                        15NA10016
