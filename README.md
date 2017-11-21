@@ -1,2 +1,2 @@
 # Matlab-Codes
-Contains Matlab codes for academic projects
+Contains Matlab codes written for academic projects
