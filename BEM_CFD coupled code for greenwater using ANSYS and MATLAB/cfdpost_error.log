@@ -1,5 +1,0 @@
- 2019/04/13 22:06:09 
-CFXDIImpFluent.cxx::generateVariableNameTranslationMap - Clashing names found. Renaming them as below
- Variable 'Volume fraction' named as 'Airair.Volume Fraction'
-Variable 'Volume fraction' named as 'Waterwater.Volume Fraction'
-
